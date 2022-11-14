@@ -1,0 +1,59 @@
+Aspectos fundamentales de los precios
+
+tres generadores basicos de AWS
+
+1 computo
+Se cobra por hora o segundo
+varia en funcion del tipo de instancia
+
+2 Almacenamiento
+se cobra por GB
+
+
+
+3 transferencia de datos
+Datos de entrada no se cobran
+Se cobran los datos de salida
+Se cobra por GB	
+Por la misma region es gratis
+
+
+Instalaciones
+Servidores que tiene la empresa
+Equipos,
+Recursos y administracion
+contratos
+
+
+Calculadora de costo mensual
+
+
+AWS organization
+para la facturacion unificada de varias cuentas
+
+Terminologia
+funciona como un arbol
+Control de acceso con IAM(Identity Managment access)
+Es por usuario, grupos o funciones
+
+politicas de control de servicios
+permite denegar o dar acceso de servicios de aws a cuentas o grupo de cuentas
+
+Configuracion de organizaciones
+1crear una organizacion
+2crear unidades organizativas
+3 crear politicas de control de acceso
+4 relaizar pruebas de restriccion
+
+AWS support
+aws truster adviser 
+4 planes	
+Basic free, foros, panel de estado del servicio, soporte para comprobacion de estado
+Developer apoyo para el desarrollo inicial
+Business 
+Enterprise Suport API to interact with support center y truster advisor, atencion de casos especializados, orientacion sobre arquitectura de aplicaciones, administracion para soporte de eventos de infraestructura
+
+planificar, implementar y optimizar 
+
+tiempos de respuesta
+
